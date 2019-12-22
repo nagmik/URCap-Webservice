@@ -1,0 +1,10 @@
+ Program
+   Robot Program
+     MoveJ
+       Waypoint_1
+       Waypoint_2
+       Waypoint_1
+   Thread_1
+     Wait: 0.5
+     i_var_1 = get_target_tcp_pose()
+     Webservice
